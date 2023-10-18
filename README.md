@@ -1,4 +1,4 @@
-[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fd2l.kennesaw.edu%2F&psig=AOvVaw0_SMWcoIyugxYzenN3j3-R&ust=1697674411286000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDlhpSo_oEDFQAAAAAdAAAAABAE]]
+![](https://www.ajc.com/resizer/eXZVM5hz8HvYppr_U1R4c0YkcRU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/BVMLJOI6YMOI5V7AXOGVUKGS2A.png)
 
 # Sptofity project Sp-29Red 
 ## Project Owner : Sharon Perry
