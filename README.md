@@ -7,3 +7,6 @@
 
                                                                 
                                                         Group Memebr : Sogand Aghazadeh, Trung Nguyen, Justin Kong, and Ranasia Clark
+<div style="background-color: #FFD700; padding: 10px;">
+    This text has a yellow background.
+</div>
