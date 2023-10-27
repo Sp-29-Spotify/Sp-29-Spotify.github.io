@@ -4,7 +4,7 @@ Spotify project Sp-29Red
 
 Project Owner : Sharon Perry
 
-Group Memebers : Sogand Aghazadeh, Trung Nguyen, Justin Kong, and Ranasia Clark
+Group Memebers : Sogand Aghazadeh, Trung Nguyen, Justin Kong, and Ranasia Clark 
 
 [Project Plan](https://docs.google.com/document/d/115KLvpZhAhIXrTMZ5EnyvUTsv2UO7VSSxD-gobhfCSs/edit)
 
