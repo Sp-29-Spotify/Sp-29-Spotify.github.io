@@ -6,4 +6,5 @@ Project Owner : Sharon Perry
 
 Group Memebers : Sogand Aghazadeh, Trung Nguyen, Justin Kong, and Ranasia Clark
 
- [SRS](https://docs.google.com/document/d/182XdDxG99g5vYlH6kpovHxe8baYyRqE075u4fAO10yE/edit)
+[Project Plan](https://docs.google.com/document/d/115KLvpZhAhIXrTMZ5EnyvUTsv2UO7VSSxD-gobhfCSs/edit)
+[SRS](https://docs.google.com/document/d/182XdDxG99g5vYlH6kpovHxe8baYyRqE075u4fAO10yE/edit)
